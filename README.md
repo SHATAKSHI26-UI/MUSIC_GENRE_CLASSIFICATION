@@ -8,9 +8,8 @@ We fine-tuned their model with a small dataset (30 songs per genre) and test it 
 
 ## Slides and Report
 
-- [Slides](https://github.com/jsalbert/music-genre-classification/blob/master/Slides.pdf)
+- [Slides](https://github.com/SHATAKSHI26-UI/music-genre-classification/blob/master/Slides.pdf)
 
-- [Report](https://github.com/jsalbert/music-genre-classification/blob/master/Music_genre_recognition.pdf)
 
 ## Code 
 
@@ -57,12 +56,12 @@ Fill the folder music with songs. Fill the example list with the song names.
 ## Results
 
 ### Sea of Dreams - Oberhofer
-[![Sea of Dreams - Oberhofer](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/figs/sea.png?raw=true)](https://www.youtube.com/watch?v=mIDWsTwstgs)
-![fig_sea](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/figs/seaofdreams.png?raw=true) 
-![Results](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/figs/output.png?raw=true)
+[![Sea of Dreams - Oberhofer](https://github.com/SHATAKSHI26-UI/MUSIC_GENRE_CLASSIFICATION/blob/master/figs/sea.png?raw=true)](https://www.youtube.com/watch?v=mIDWsTwstgs)
+![fig_sea](https://github.com/SHATAKSHI26-UI/MUSIC_GENRE_CLASSIFICATION/blob/master/figs/seaofdreams.png?raw=true) 
+![Results](https://github.com/SHATAKSHI26-UI/MUSIC_GENRE_CLASSIFICATION/blob/master/figs/output.png?raw=true)
 
 ### Sky Full of Stars - Coldplay
-[![Sky Full of Stars- Coldplay](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/figs/sky.png?raw=true)](https://www.youtube.com/watch?v=zp7NtW_hKJI) 
-![fig_sky](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/figs/skyfullofstars.png?raw=true) 
+[![Sky Full of Stars- Coldplay](https://github.com/SHATAKSHI26-UI/MUSIC_GENRE_CLASSIFICATION/blob/master/figs/sky.png?raw=true)](https://www.youtube.com/watch?v=zp7NtW_hKJI) 
+![fig_sky](https://github.com/SHATAKSHI26-UI/MUSIC_GENRE_CLASSIFICATION/blob/master/figs/skyfullofstars.png?raw=true) 
 
 
